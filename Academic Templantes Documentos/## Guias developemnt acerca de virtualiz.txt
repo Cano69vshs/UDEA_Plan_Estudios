@@ -1,0 +1,16 @@
+## Guias developemnt acerca de virtualizacion con KVM 
+
+- KVM Libvirtd 
+
+- Quickgui & Quickget 
+
+- Lima KVM 
+
+
+
+
+Python 
+
+
+        Python3 pip
+            
