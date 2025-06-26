@@ -1,4 +1,20 @@
-# Plan de Estudios: Ingeniería en Sistemas Computacionales
+¡Por supuesto! He reestructurado el documento para que el índice de contenido sea jerárquico, mostrando los semestres como temas principales y las materias como submenús con hipervínculos, tal como lo solicitaste.
+
+---
+
+# Universidad de los Angeles Zumpango
+
+### Retícula: Ingeniería en Sistemas Computacionales
+
+**Estudiante:** Alessandro
+
+### Planificador Académico
+
+Bienvenido al planificador de materias para la carrera de Ingeniería en Sistemas Computacionales. Este documento sirve como una guía detallada de la trayectoria académica, permitiendo organizar el avance, visualizar los cursos por semestre y tener un control claro del contenido a estudiar.
+
+Got it. You'd like the information presented as a Markdown table. Here's the study plan from the image in that format:
+
+## Plan de Estudios: Ingeniería en Sistemas Computacionales
 
 | Semestre | Materias | Completadas (0/Total) |
 |----------|----------|---------------------|
